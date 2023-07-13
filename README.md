@@ -1,6 +1,6 @@
-# NewsMonkey
+# News Mint
 
-You can visit the site here -> [NewsMonkey]( )
+You can visit the site here -> [News Mint]( )
 
 - This is a news app with real and live data fetching using news api. 
 - Currently for deployment purposes the data is static and not updating.
