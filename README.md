@@ -1,6 +1,8 @@
-# News Mint
+## News Mint
+News Mint is a web application that provides users with the latest news from around the world. The app utilizes the NewsAPI to gather news articles. key features of News Mint are its advanced filtering options and infinite scrolling functionality, which enables users to seamlessly browse through a virtually endless stream of news articles.
 
-You can visit the site here -> [News Mint]( )
+
+## You can visit the site here ->  [News Mint](https://news-mint.netlify.app/)
 
 - This is a news app with real and live data fetching using news api. 
 - Currently for deployment purposes the data is static and not updating.
