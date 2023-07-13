@@ -1,6 +1,6 @@
 # NewsMonkey
 
-You can visit the site here -> [NewsMonkey](https://news-monkey-seven.vercel.app/)
+You can visit the site here -> [NewsMonkey]( )
 
 - This is a news app with real and live data fetching using news api. 
 - Currently for deployment purposes the data is static and not updating.
@@ -8,10 +8,10 @@ You can visit the site here -> [NewsMonkey](https://news-monkey-seven.vercel.app
 - You can choose different area for news
 
 
-## What i learnt
-- Different libraries
+## Different libraries
   1. React-infinite-scroll
   2. React-top-loading
+
 
 ## How to run with actual live data
 - Clone this repo
