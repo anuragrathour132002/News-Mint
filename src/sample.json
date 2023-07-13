@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+  {
+  "source": {
+  "id": "bbc-news",
+  "name": "BBC News"
+  },
+  "author": "BBC News",
+  "title": "The Crown cast: Prince William and Kate Middleton actors revealed for season 6",
+  "description": "The Netflix drama finds new actors to play the now-Duke and Duchess of Cambridge in the final series.",
+  "url": "http://www.bbc.co.uk/news/entertainment-arts-62776717",
+  "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10907/production/_126574876_megbellamy-creditdianafieldphotography.jpg",
+  "publishedAt": "2022-09-03T09:37:23.4367412Z",
+  "content": "By James GregoryBBC News\r\nA former head girl has landed her first professional acting role playing Kate Middleton in Netflix's The Crown.\r\nMeg Bellamy, 19, won her debut role after submitting self-ta… [+2604 chars]"
+  },
+  {
+  "source": {
+  "id": "entertainment-weekly",
+  "name": "Entertainment Weekly"
+  },
+  "author": "Clark Collis",
+  "title": "<em>The Crown</em> reveals who will play Prince William and Kate Middleton in season 6",
+  "description": "Rufus Kampa and Ed McVey are set to portray the prince at different ages, while Meg Bellamy has been cast as the future Duchess of Cambridge.",
+  "url": "https://ew.com/tv/the-crown-casts-william-and-kate-season-6/",
+  "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=%5B940%2C119%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2022%2F09%2F02%2FKate-Middleton-Prince-William_090222.jpg",
+  "publishedAt": "2022-09-02T20:01:38Z",
+  "content": "The Crown has cast two actors to play the young Prince William and the actress who will portray William's future wife Kate Middleton in season 6 of the Netflix drama about the British royal family.\r\n… [+1334 chars]"
+  },
+  {
+  "source": {
+  "id": "the-next-web",
+  "name": "The Next Web"
+  },
+  "author": "Tristan Greene",
+  "title": "Forget chess, DeepMind's training its new AI to play football",
+  "description": "Researchers from DeepMind, the UK's juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\n\r\nThe Google sister company yesterday published ...",
+  "url": "http://thenextweb.com/news/forget-chess-deepminds-training-new-ai-play-football",
+  "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F09%2Fdeepmindfootball.jpg&signature=c9c7547e41dd0811817adb1b56c4a07d",
+  "publishedAt": "2022-09-01T22:09:19Z",
+  "content": "Researchers from DeepMind, the UKs juggernaut AI lab, have forsaken the noble games of chess and Go for a more plebeian delight: football.\r\nThe Google sister company yesterday published a research pa… [+3647 chars]"
+  },
+  {
+  "source": {
+  "id": "hacker-news",
+  "name": "Hacker News"
+  },
+  "author": null,
+  "title": "Eating the Cloud from Outside In ∊ swyx.io",
+  "description": "AWS is playing Chess. Cloudflare is playing Go.",
+  "url": "https://www.swyx.io/cloudflare-go/",
+  "urlToImage": "https://res.cloudinary.com/practicaldev/image/fetch/s--9Xdo0cHm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4zf8a4nppo2jppogrshg.png",
+  "publishedAt": "2021-10-18T12:22:18.6165958Z",
+  "content": "Cloudflare launched on September 27, 2010, and every year since, it has made it a point to celebrate \"Birthday Week\" with a raft of launches. By far, the show-stopper this year was the announcement o… [+9133 chars]"
+  }
+  ]
+  }

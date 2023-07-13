@@ -1,0 +1,11 @@
+.footer{
+    height: 100px;
+    width: 100vw;
+    background-color: black;
+    color: white
+}
+
+.appName{
+    padding: 2rem;
+    padding-left: 5rem;
+}

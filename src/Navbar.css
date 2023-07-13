@@ -1,0 +1,112 @@
+.navbar {
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    z-index: 1000000;
+    background-color: black;
+    color: white;
+    width: 100vw;
+    padding-bottom: 0.5rem;
+}
+.navbarLarge{
+    display: flex;
+}
+
+#homelink {
+    display: flex;
+    align-items: center;
+    padding: 1rem 1rem 0 4.5rem;
+    border-radius: 120px;
+    color: white;
+    text-decoration:none;
+    font-size: 1.5rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.hamburger{
+    display: none;
+    position: absolute;
+    padding: 0;
+    right: 0;
+    margin: 0;
+    border: none;
+    background-color: black;
+}
+
+.hamburgerimg{
+    padding: 0;
+    padding-top: 0.2rem;
+    margin:0;
+    background-color: black;
+    width: 40px;
+    border:none;
+    color: black;
+}
+
+.navbarlist1{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    margin:0;
+    padding-top: 0.8rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbarlist2{
+    display: none;
+}
+
+
+.navbarli{
+    padding: 1rem;
+    list-style: none;
+}
+
+
+.navbarlink{
+    text-decoration: none;
+    color: white;
+    font-weight: 100;
+}
+
+.loginButton{
+    color:black;
+    background-color: white;
+    padding: 4px 20px 6px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+
+}
+
+@media(max-width:786px){
+
+    .navbar{
+        flex-direction: column;
+        padding-top: 10px;
+    }
+    .navbarlist1{
+        display:none;
+    }
+    .navbarlist2{
+        margin:0;
+        padding:0;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        /* height: 0px; */
+        overflow: hidden;
+    }
+    
+    #homelink{
+        padding-bottom: 20px;
+        padding-left: 2rem;
+    }
+
+    .hamburger{
+        display: block;
+        padding-top: 5px;
+    }
+}
